@@ -149,14 +149,3 @@ FROM vw_cgpa_summary;
 
 ---
 
-## Resume Points (How to Describe This Project)
-
-- **Designed** a normalized relational database schema (3NF) with 7 tables, FK constraints, and ENUM types
-- **Implemented** full CRUD operations using DDL/DML with cascading deletes and soft-delete pattern
-- **Optimized** data retrieval with indexed foreign keys, reusable Views, and Window Functions (RANK, running AVG)
-- **Built** Stored Procedures for transactional multi-step operations and Triggers for business rule enforcement and audit logging
-- **Developed** a Python CLI using `mysql-connector-python` for interactive student record management
-
----
-
-*Project built for learning purposes. Suitable for college mini-project submission.*
