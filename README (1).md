@@ -1,5 +1,4 @@
 # Student Management System (MySQL)
-### A Complete Fresher's Project — From Scratch to End
 
 ---
 
